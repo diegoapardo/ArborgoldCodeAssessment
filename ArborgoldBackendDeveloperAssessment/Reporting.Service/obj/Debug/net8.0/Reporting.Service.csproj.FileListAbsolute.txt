@@ -1,0 +1,14 @@
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\bin\Debug\net8.0\Reporting.Service.deps.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\bin\Debug\net8.0\Reporting.Service.runtimeconfig.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\bin\Debug\net8.0\Reporting.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\bin\Debug\net8.0\Reporting.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.csproj.AssemblyReference.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.AssemblyInfoInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.AssemblyInfo.cs
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.csproj.CoreCompileInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\refint\Reporting.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\Reporting.Service.genruntimeconfig.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Reporting.Service\obj\Debug\net8.0\ref\Reporting.Service.dll

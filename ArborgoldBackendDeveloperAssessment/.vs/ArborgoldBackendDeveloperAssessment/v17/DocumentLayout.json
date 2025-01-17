@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\arborgoldbackenddeveloperassessment\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|solutionrelative:arborgoldbackenddeveloperassessment\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\arborgoldbackenddeveloperassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|solutionrelative:arborgoldbackenddeveloperassessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\arborgoldbackenddeveloperassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29A11213-67F5-40EA-8B93-8FC469DD5F39}|ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment.csproj|solutionrelative:arborgoldbackenddeveloperassessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\accountmanagement.service\\presentation\\accountmanagementorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|solutionrelative:accountmanagement.service\\presentation\\accountmanagementorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B226AD9-19D1-462A-9DD4-8107658FF0D1}|AccountManagement.Tests\\AccountManagement.Tests.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\accountmanagement.tests\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B226AD9-19D1-462A-9DD4-8107658FF0D1}|AccountManagement.Tests\\AccountManagement.Tests.csproj|solutionrelative:accountmanagement.tests\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\accountmanagement.service\\domain\\services\\accountvalidator\\accountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|solutionrelative:accountmanagement.service\\domain\\services\\accountvalidator\\accountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\accountmanagement.service\\domain\\services\\accountvalidator\\iaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|solutionrelative:accountmanagement.service\\domain\\services\\accountvalidator\\iaccountvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|c:\\dev\\arborgoldbackenddeveloperassessment\\accountmanagement.service\\domain\\services\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14357C6-E69D-4903-BDF7-BB7DF9164E6F}|AccountManagement.Service\\AccountManagement.Service.csproj|solutionrelative:accountmanagement.service\\domain\\services\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\README.md",
+              "RelativeDocumentMoniker": "ArborgoldBackendDeveloperAssessment\\README.md",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\README.md*",
+              "RelativeToolTip": "ArborgoldBackendDeveloperAssessment\\README.md*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-17T22:35:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\appsettings.json",
+              "RelativeDocumentMoniker": "ArborgoldBackendDeveloperAssessment\\appsettings.json",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\appsettings.json",
+              "RelativeToolTip": "ArborgoldBackendDeveloperAssessment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T22:27:59.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\Program.cs",
+              "RelativeDocumentMoniker": "ArborgoldBackendDeveloperAssessment\\Program.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\ArborgoldBackendDeveloperAssessment\\Program.cs",
+              "RelativeToolTip": "ArborgoldBackendDeveloperAssessment\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:26:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountManagementOrchestrator.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Presentation\\AccountManagementOrchestrator.cs",
+              "RelativeDocumentMoniker": "AccountManagement.Service\\Presentation\\AccountManagementOrchestrator.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Presentation\\AccountManagementOrchestrator.cs",
+              "RelativeToolTip": "AccountManagement.Service\\Presentation\\AccountManagementOrchestrator.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:18:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountValidator.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountValidator\\IAccountValidator.cs",
+              "RelativeDocumentMoniker": "AccountManagement.Service\\Domain\\Services\\AccountValidator\\IAccountValidator.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountValidator\\IAccountValidator.cs",
+              "RelativeToolTip": "AccountManagement.Service\\Domain\\Services\\AccountValidator\\IAccountValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:17:05.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountService\\AccountService.cs",
+              "RelativeDocumentMoniker": "AccountManagement.Service\\Domain\\Services\\AccountService\\AccountService.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountService\\AccountService.cs",
+              "RelativeToolTip": "AccountManagement.Service\\Domain\\Services\\AccountService\\AccountService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvxwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:08:24.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountValidator.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountValidator\\AccountValidator.cs",
+              "RelativeDocumentMoniker": "AccountManagement.Service\\Domain\\Services\\AccountValidator\\AccountValidator.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Service\\Domain\\Services\\AccountValidator\\AccountValidator.cs",
+              "RelativeToolTip": "AccountManagement.Service\\Domain\\Services\\AccountValidator\\AccountValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:03:12.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountServiceTests.cs",
+              "DocumentMoniker": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Tests\\AccountServiceTests.cs",
+              "RelativeDocumentMoniker": "AccountManagement.Tests\\AccountServiceTests.cs",
+              "ToolTip": "C:\\Dev\\ArborgoldBackendDeveloperAssessment\\AccountManagement.Tests\\AccountServiceTests.cs",
+              "RelativeToolTip": "AccountManagement.Tests\\AccountServiceTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:04:37.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

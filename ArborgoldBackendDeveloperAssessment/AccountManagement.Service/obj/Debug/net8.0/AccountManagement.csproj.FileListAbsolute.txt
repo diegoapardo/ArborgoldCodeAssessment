@@ -1,0 +1,11 @@
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.AssemblyInfoInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.AssemblyInfo.cs
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.csproj.CoreCompileInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\bin\Debug\net8.0\AccountManagement.deps.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\bin\Debug\net8.0\AccountManagement.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\bin\Debug\net8.0\AccountManagement.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\refint\AccountManagement.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\AccountManagement.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\AccountManagement\obj\Debug\net8.0\ref\AccountManagement.dll

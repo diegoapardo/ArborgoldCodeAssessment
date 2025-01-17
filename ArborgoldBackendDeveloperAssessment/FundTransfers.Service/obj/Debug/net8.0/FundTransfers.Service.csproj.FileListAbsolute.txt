@@ -1,0 +1,14 @@
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\bin\Debug\net8.0\FundTransfers.Service.deps.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\bin\Debug\net8.0\FundTransfers.Service.runtimeconfig.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\bin\Debug\net8.0\FundTransfers.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\bin\Debug\net8.0\FundTransfers.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.csproj.AssemblyReference.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.AssemblyInfoInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.AssemblyInfo.cs
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.csproj.CoreCompileInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\refint\FundTransfers.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\FundTransfers.Service.genruntimeconfig.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\FundTransfers.Service\obj\Debug\net8.0\ref\FundTransfers.Service.dll

@@ -1,0 +1,14 @@
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.csproj.AssemblyReference.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.AssemblyInfoInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.AssemblyInfo.cs
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.csproj.CoreCompileInputs.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\bin\Debug\net8.0\Security.Service.deps.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\bin\Debug\net8.0\Security.Service.runtimeconfig.json
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\bin\Debug\net8.0\Security.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\bin\Debug\net8.0\Security.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\refint\Security.Service.dll
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.pdb
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\Security.Service.genruntimeconfig.cache
+C:\Dev\ArborgoldBackendDeveloperAssessment\Security.Service\obj\Debug\net8.0\ref\Security.Service.dll
